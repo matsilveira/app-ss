@@ -1,1 +1,1 @@
-#project title
+Sticker Seeds App
